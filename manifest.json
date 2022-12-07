@@ -1,0 +1,22 @@
+{
+    "name":"Sekuel",
+    "short_name":"Sekuel",
+    "description":"Sekuel - Powered by Ghost and DuckDB",
+    "lang":"en",
+    "start_url":"/",
+    "background_color":"#ffffff",
+    "display":"standalone",
+    "theme_color":"#ffffff",
+    "icons":[
+       {
+        "src": "/assets/192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/500x500.png",
+        "type": "image/png",
+        "sizes": "500x500"
+      }
+    ]
+}
